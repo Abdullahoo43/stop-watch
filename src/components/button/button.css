@@ -1,0 +1,11 @@
+.individual-button {
+    border: none;
+    border-radius:20px;
+    background-color:rgb(100, 14, 14);
+    color: rgb(216, 202, 182);
+    width: 10rem;
+    font-size: 25px;
+    font-weight: 800;
+    cursor: pointer;
+    padding: 7px;
+}
